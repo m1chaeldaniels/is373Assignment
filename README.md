@@ -1,0 +1,1 @@
+![Screenshot of mobile Resume](default.png)
