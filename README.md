@@ -1,1 +1,1 @@
-![Screenshot of mobile Resume](default.png)
+![Screenshot of qrcode](default.png)
